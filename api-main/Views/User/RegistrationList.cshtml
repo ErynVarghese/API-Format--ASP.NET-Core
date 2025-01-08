@@ -1,0 +1,54 @@
+﻿@model List<API_main.Models.UserModel>
+
+@{
+    ViewData["Title"] = "User Registration List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-controller="User" asp-action="Create" class="btn btn-primary">Add New User</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>User Code</th>
+            <th>Name</th>
+            <th>Contact No</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Type</th>
+            <th>SLA</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(model => item.User_code)</td>
+                    <td>@Html.DisplayFor(model => item.Name)</td>
+                    <td>@Html.DisplayFor(model => item.Phone)</td>
+                    <td>@Html.DisplayFor(model => item.Email)</td>
+                    <td>@Html.DisplayFor(model => item.LocationName)</td>
+                    <td>@Html.DisplayFor(model => item.UserTypeID)</td>
+                    <td>@Html.DisplayFor(model => item.SLAID)</td>
+                    <td>
+                        <a asp-controller="User" asp-action="Edit" asp-route-id="@item.User_ID" class="btn btn-warning">Edit</a>
+                        <a asp-controller="User" asp-action="Delete" asp-route-id="@item.User_ID" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this user?');">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="8">No users found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

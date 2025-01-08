@@ -1,0 +1,59 @@
+﻿@model List<API_Consume.Models.UserModel>
+
+@{
+    ViewData["Title"] = "User Registration List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th style="border:none;float:right">@Html.ActionLink("New", "AddCreateAPI", null, new { @class = "btn btn-success pull-right btn-sm" })</th>
+            <th style="border:none;float:right">@Html.ActionLink("Image", "UploadImage", null, new { @class = "btn btn-success pull-right btn-sm" })</th>
+        </tr>
+
+        <tr>
+            <th>User Code</th>
+            <th>Name</th>
+            <th>Contact No</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Type</th>
+            <th>UserId</th>
+  
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(model => item.User_code)</td>
+                    <td>@Html.DisplayFor(model => item.Name)</td>
+                    <td>@Html.DisplayFor(model => item.Phone)</td>
+                    <td>@Html.DisplayFor(model => item.Email)</td>
+                    <td>@Html.DisplayFor(model => item.LocationName)</td>
+                    <td>@Html.DisplayFor(model => item.User_ID)</td>
+                  
+                    <td>
+                          <a href="@Url.Action("Edit", "User", new { id = item.User_ID })" tooltip="Edit">Edit</a>
+                          <a href="@Url.Action("Delete","User", new { id = item.User_ID })" onclick="return confirm('Are you sure you wish to delete this Record?');" style="color:#ff0000">Delete</a>
+                   
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="8">No users found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

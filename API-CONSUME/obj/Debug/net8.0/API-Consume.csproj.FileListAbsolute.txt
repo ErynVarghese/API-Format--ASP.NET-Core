@@ -1,0 +1,1113 @@
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\appsettings.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.staticwebassets.runtime.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.exe
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.deps.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.runtimeconfig.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.pdb
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.csproj.AssemblyReference.cache
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.AssemblyInfoInputs.cache
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.AssemblyInfo.cs
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.csproj.CoreCompileInputs.cache
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.RazorAssemblyInfo.cache
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.RazorAssemblyInfo.cs
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.API-Consume.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.build.API-Consume.props
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Consume.props
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API-Consume.props
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\scopedcss\bundle\API-Consume.styles.css
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\scopedcss\projectbundle\API-Consume.bundle.scp.css
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Cons.1FD71953.Up2Date
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\refint\API-Consume.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.pdb
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.genruntimeconfig.cache
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\ref\API-Consume.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\mscorlib.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\netstandard.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Console.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Core.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Data.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Memory.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Web.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Windows.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Eryn\source\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.staticwebassets.runtime.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.staticwebassets.endpoints.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.exe
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.deps.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.runtimeconfig.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\API-Consume.pdb
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\mscorlib.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\netstandard.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Console.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Core.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Data.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Memory.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Web.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Windows.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.AssemblyInfo.cs
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.RazorAssemblyInfo.cache
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.RazorAssemblyInfo.cs
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\scopedcss\bundle\API-Consume.styles.css
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\scopedcss\projectbundle\API-Consume.bundle.scp.css
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.API-Consume.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.API-Consume.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.build.API-Consume.props
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Consume.props
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API-Consume.props
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Cons.1FD71953.Up2Date
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\refint\API-Consume.dll
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.pdb
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\API-Consume.genruntimeconfig.cache
+D:\OneDrive\Desktop\Co-op Job\FCC\repos\API-main\API-Consume\obj\Debug\net8.0\ref\API-Consume.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\API-Consume.staticwebassets.endpoints.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\API-Consume.staticwebassets.runtime.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\API-Consume.exe
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\API-Consume.deps.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\API-Consume.runtimeconfig.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\API-Consume.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\API-Consume.pdb
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\mscorlib.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\netstandard.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Collections.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Console.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Core.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Data.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Linq.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Memory.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Web.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Windows.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.csproj.AssemblyReference.cache
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.AssemblyInfoInputs.cache
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.AssemblyInfo.cs
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.csproj.CoreCompileInputs.cache
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.RazorAssemblyInfo.cache
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.RazorAssemblyInfo.cs
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.sourcelink.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\scopedcss\bundle\API-Consume.styles.css
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\scopedcss\projectbundle\API-Consume.bundle.scp.css
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.API-Consume.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.API-Consume.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.build.API-Consume.props
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Consume.props
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API-Consume.props
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Cons.1FD71953.Up2Date
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\refint\API-Consume.dll
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.pdb
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\API-Consume.genruntimeconfig.cache
+D:\OneDrive\Git\API Format - ASP.NET MVC\API-Consume\obj\Debug\net8.0\ref\API-Consume.dll
